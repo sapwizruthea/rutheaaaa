@@ -9,7 +9,7 @@
 </head>
 <body>
 
-        <img src="https://scontent.fcrk3-1.fna.fbcdn.net/v/t1.15752-9/279092544_551576866311127_739218657851020056_n.jpg?stp=dst-jpg_s240x240&_nc_cat=104&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeF3W-RU1ZtCqcw2sMpXnlasiOjHZ4n0FBKI6MdnifQUEttNoKTAsw0g0DnFaLbqOFIHoa2V8fpN5LbPgp-D19Z9&_nc_ohc=lp-OR7kBoJQAX_YMoKK&_nc_ht=scontent.fcrk3-1.fna&oh=03_AVI8mT0Xe3bCGljyzAEADHPhwLtwJD3c5p93UInpSFKXzg&oe=62951812" alt="Ruthea's picture"></td>
+        <img src="https://scontent.fcrk3-1.fna.fbcdn.net/v/t1.15752-9/279092544_551576866311127_739218657851020056_n.jpg?stp=dst-jpg_s240x240&_nc_cat=104&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeF3W-RU1ZtCqcw2sMpXnlasiOjHZ4n0FBKI6MdnifQUEttNoKTAsw0g0DnFaLbqOFIHoa2V8fpN5LbPgp-D19Z9&_nc_ohc=lp-OR7kBoJQAX_YMoKK&_nc_ht=scontent.fcrk3-1.fna&oh=03_AVI8mT0Xe3bCGljyzAEADHPhwLtwJD3c5p93UInpSFKXzg&oe=62951812" alt="Ruthea's picture">
 
         <div class="header">
             <h1>Ruthea Mae H. Sapwiz</h1> 
@@ -32,7 +32,7 @@
         <div class="skills">
             <hr>
             <h3>Skills</h3>
-            <p> Computer Literate <span">&#11088;&#11088;</span> </p>
+            <p> Computer Literate <span">&#11088;&#11088; </p>
             <p>Editing <span style="position:absolute; left: 130px;"> &#11088;&#11088; </span> </p>
             <p>Photoshop <span style="position:absolute; left: 130px;"> &#11088;&#11088;&#11088;</span></p>
         </div>
